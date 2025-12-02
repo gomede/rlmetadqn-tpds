@@ -33,6 +33,7 @@ It achieves:
     ├── run_robustness.py               # Perturbation / drift robustness experiments
     ├── run_ablation_studies.py         # Component-level ablation framework
     │
+    └── requirements.txt
     └── README.md
 
 ---
